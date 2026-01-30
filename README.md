@@ -1,5 +1,4 @@
 # ATOMS3 – SECURE SENSOR BINDING ARCHITECTURE
-*
 * This firmware implements a security model
 * based on:
 * - Secure Boot + Flash Encryption (assumed to be active at the HW level)
