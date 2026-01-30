@@ -1,6 +1,4 @@
 # ATOMS3 – SECURE SENSOR BINDING ARCHITECTURE
-
-ATOMS3 – SECURE SENSOR BINDING ARCHITECTURE
 *
 * This firmware implements a security model
 * based on:
